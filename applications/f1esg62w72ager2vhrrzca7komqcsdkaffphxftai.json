@@ -13,7 +13,7 @@
   },
   "Project": {
     "Brief history of your project and organization": "Wlyl Ltd is an online training sharing platform. It is specifically designed for enterprise users. Founded at the end of 2019, when distributed office has become a trend around the world, we have created a video online course live broadcast platform for companies that need to train their employees. We can provide live broadcast, recorded broadcast, video, playback and other service options. We have served nearly 100 companies and have reached partnerships with dozens of companies. We are committed to providing live training services to more companies.",
-    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "Business  training courses, online course recording videos",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "",
