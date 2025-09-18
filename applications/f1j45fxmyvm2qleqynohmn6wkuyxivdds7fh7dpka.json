@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1j45fxmyvm2qleqynohmn6wkuyxivdds7fh7dpka",
+  "Issue Number": "45",
+  "Client": {
+    "Name": "OpenUniverse2024",
+    "Region": "United States",
+    "Industry": "Environment",
+    "Website": "https://registry.opendata.aws/openuniverse2024/",
+    "Social Media": "https://irsa.ipac.caltech.edu/docs/help_desk.html",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "I am a professional team that collects and processes data sets. I have processed hundreds of large data sets and have professional machines to host them. I‘ve operation for more than 3 years.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "OpenUniverse> - <Simulated Roman & Rubin Images - 2024\nThe simulated Roman data products include truth files listing the basic physical properties of the simulated astronomical objects",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "The dataset has been downloaded and saved locally. I will split it into pieces and distribute it to the sp",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "aws s3 ls --no-sign-request s3://nasa-irsa-simulations/openuniverse2024/  370.5882 TiB\n\nSample：\ns3://nasa-irsa-simulations/openuniverse2024/roman/full/ROMAN+LSST_LARGE_SNIa-normal/ROMAN+LSST_LARGE_SNIa-normal.LIST\ns3://nasa-irsa-simulations/openuniverse2024/roman/full/ROMAN+LSST_LARGE_SNIa-normal/ROMAN+LSST_NONIaMODEL0-0001_HEAD.FITS.gz\n\n\ns3://nasa-irsa-simulations/openuniverse2024/rubin/full/u/descdm/step1_000_w_2024_22/20240609T004129Z/calexp/20250705/g/g_6/5025070501810/calexp_LSSTCam_g_g_6_5025070501810_R01_S00_u_descdm_step1_000_w_2024_22_20240609T004129Z.fits\ns3://nasa-irsa-simulations/openuniverse2024/rubin/full/u/descdm/step1_000_w_2024_22/20240609T004129Z/calexp/20250705/g/g_6/5025070501810/calexp_LSSTCam_g_g_6_5025070501810_R01_S01_u_descdm_step1_000_w_2024_22_20240609T004129Z.fits",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "Lotus built-in data transfer, Cloud storage (i.e. S3), Venus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03367915 United States、f03289271 Germany、f03641915 Brazil、\nf03641951 HongKong、f03641955 Germany、f03641974 Vietnam、f03641984 Brazil、f03641964 United States",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "4PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-09-18 01:15:41.572400750 UTC",
+    "Validated By": "ipfsAllen",
+    "Active": true,
+    "Updated At": "2025-09-18 01:15:41.572397087 UTC",
+    "Active Request ID": "a4abc0c1-73cd-4e23-b454-e8c0a41c1f04",
+    "On Chain Address": "f1j45fxmyvm2qleqynohmn6wkuyxivdds7fh7dpka",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "a4abc0c1-73cd-4e23-b454-e8c0a41c1f04",
+      "Request Type": "First",
+      "Created At": "2025-09-18 01:13:16.935587243 UTC",
+      "Updated At": "2025-09-18 01:13:16.935588638 UTC",
+      "Active": false,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": [
+        {
+          "Github Username": "ipfsAllen",
+          "Signing Address": "f1s5v3clres7a63cidjotn6gfhzmy3go6ne5retri",
+          "Created At": "2025-09-18 01:15:39.557000000 UTC",
+          "Message CID": "bafy2bzaceczrnebvjs5vjsipjbsor6yrmkfgwmoqtqutf62bnyukl5q6axfla"
+        }
+      ]
+    }
+  ]
+}
