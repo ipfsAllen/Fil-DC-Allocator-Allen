@@ -1,6 +1,23 @@
 # Fil+DC-Allocator-Allen
-V5 FIL+ DC Allocator Allen Cho Zeta Cube Inc https://zetacube.net
+V6 FIL+ DC Allocator Allen Cho Zeta Cube Inc https://zetacube.net
 
+### Contact
+- Email: allen@zetacube.net
+- Slack: Allen Cho (Allen)
+- Github: ipfsAllen
+
+### What the Client Needs to Do
+1. Submit an application at [https://github.com/ipfsAllen/Fil-DC-Allocator-Allen/issues] and complete the survey by providing KYB/KYC information. 
+2. Provide at least five SPs in different regions with good retrieval performance, keep them updated when there are changes, and ensure your data samples match the dataset you intend to store.
+3. All datasets must be stored in at least two geographic regions.
+
+
+### Allocation tranche schedule
+- 1st: allocation max 5%, but no more than 256TiB
+- 2nd: allocation max 10%
+- 3rd: allocation max 15%
+- 4th: allocation max 20%
+- 5th and there after max 25%
 -----
 ## Programmatic Policies
 1. Filecoin Plus is designed for all client actors with quality data who engage in distributed onboarding. Client actors can be either data owners or preparers (including SPs), who either provide some form of KYC (and KYB) information to earn social trust or prove long-term commitment (i.e. collateral in a trustless notary).
