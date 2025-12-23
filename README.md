@@ -1,5 +1,5 @@
 # Fil+DC-Allocator-Allen
-V6 FIL+ DC Allocator Allen Cho Zeta Cube Inc https://zetacube.net
+V6 FIL+ DC Allocator Allen Cho at ZetaCube Inc https://zetacube.net
 
 ### Contact
 - Email: allen@zetacube.net
@@ -8,7 +8,7 @@ V6 FIL+ DC Allocator Allen Cho Zeta Cube Inc https://zetacube.net
 
 ### What the Client Needs to Do
 1. Submit an application at [https://github.com/ipfsAllen/Fil-DC-Allocator-Allen/issues] and complete the survey by providing KYB/KYC information. 
-2. Provide at least five SPs in different regions with good retrieval performance, keep them updated when there are changes, and ensure your data samples match the dataset you intend to store.
+2. Provide at least five SPs with good retrieval performance, keep them updated when there are changes, and ensure your data samples match the dataset you intend to store.
 3. All datasets must be stored in at least two geographic regions.
 
 
